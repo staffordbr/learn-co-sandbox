@@ -1,3 +1,3 @@
 students = Array.new
-students = ["shorts"]
-puts students
+students = ["shorts",'shirts']
+puts students[1]
