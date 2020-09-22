@@ -1,5 +1,5 @@
 students = Array.new
-students = ["shorts",'shirts']
+students = ["shorts",'shirts',"hat"]
 students[1] = "socks"
-students.shift
+students.reverse
 puts students
