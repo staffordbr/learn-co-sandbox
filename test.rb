@@ -1,5 +1,5 @@
 students = Array.new
 students = ["shorts",'shirts']
 students[1] = "socks"
-students << "shirts"
+students.push("shirts")
 puts students
